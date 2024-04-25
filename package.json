@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-fakeai",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "Description for rust-fakeai",
   "main": "src/index.js",
   "scripts": {
